@@ -182,6 +182,16 @@ Real-world examples demonstrate the impact:
 
 > "Osmar Alonso, DevOps Engineer at Volkswagen Digital Solutions, shared how AI agents have transformative potential: 'Even in its early stages, we saw how deeper integration with autonomous agents could streamline our process, from code commit to production.'" - [GitLab](https://about.gitlab.com/the-source/ai/how-agentic-ai-unlocks-platform-engineering-potential)
 
+### PlatformCon 2025: AI and Platform Engineering
+
+Recent presentations at PlatformCon 2025 demonstrate growing industry focus on AI-driven platform engineering:
+
+- **[AI-native: The next revolution after cloud native](https://www.youtube.com/watch?v=J3QFTquSQB4)** - Pini Reznik explores how AI-native architectures represent the next evolution beyond cloud-native systems, requiring new foundational approaches to platform design.
+
+- **[How to build trusted AI agents for platform engineers](https://www.youtube.com/watch?v=xritSwZwX1Q)** - Aaron Yang presents practical strategies for implementing trustworthy AI agents in platform engineering contexts, addressing the reliability and governance challenges our tools help solve.
+
+- **[Platform Engineering with AI Integration](https://www.youtube.com/watch?v=xVsXkfJ8Ao4)** - Additional insights into AI-platform integration patterns and real-world implementation strategies.
+
 ## Technical Architecture for Agentic Systems
 
 Based on industry research, successful agentic platform engineering requires careful consideration of several technical domains:
@@ -363,6 +373,14 @@ This repository is built on extensive industry research into agentic platform en
 - **[Agentic AI: A Game-Changer for Platform Engineering](https://www.business-reporter.co.uk/ai--automation/agentic-ai--a-game-changer-for-platform-engineering)** - Business Reporter's executive perspective on strategic implications and ROI.
 
 - **[Agentic AI & MCP for Platform Teams](https://ranthebuilder.medium.com/agentic-ai-mcp-for-platform-teams-strategy-and-real-world-patterns-3b593a005054)** - Technical patterns and Model Context Protocol implementation strategies.
+
+### Conference Presentations
+
+Recent presentations at PlatformCon 2025 show the growing industry focus on AI-platform engineering integration:
+
+- **[AI-native: The next revolution after cloud native](https://www.youtube.com/watch?v=J3QFTquSQB4)** - Pini Reznik, PlatformCon 2025
+- **[How to build trusted AI agents for platform engineers](https://www.youtube.com/watch?v=xritSwZwX1Q)** - Aaron Yang, PlatformCon 2025  
+- **[Platform Engineering with AI Integration](https://www.youtube.com/watch?v=xVsXkfJ8Ao4)** - Additional PlatformCon 2025 insights
 
 ### Key Insights Applied
 
